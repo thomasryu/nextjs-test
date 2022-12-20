@@ -1,5 +1,5 @@
 {
-  "name": "neo-midas",
+  "name": "nextjs-test",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -9,22 +9,12 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@typeform/embed": "^1.36.1",
-    "axios": "^0.26.1",
-    "classnames": "^2.3.1",
-    "comigo-tech-react-input-mask": "^3.0.0-alpha.3",
-    "formik": "^2.2.9",
-    "html-react-parser": "^1.4.8",
-    "html-to-image": "^1.10.8",
     "next": "^12.1.6",
     "react": "17.0.2",
     "react-dom": "17.0.2",
-    "sharp": "^0.30.5",
-    "yup": "^0.32.11"
+    "sharp": "^0.30.5"
   },
   "devDependencies": {
-    "@svgr/webpack": "^6.2.1",
-    "@trivago/prettier-plugin-sort-imports": "^3.3.0",
     "@types/node": "17.0.13",
     "@types/react": "17.0.38",
     "@types/react-dom": "^17.0.0",
