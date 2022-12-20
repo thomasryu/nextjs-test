@@ -5,10 +5,14 @@ const Home = () => (
     Trailing slash
     <br />
     <br />
-    <Link href="/about/">Link with trailing slash</Link>
+    <a href="/about/" target="_blank">
+      Link with trailing slash
+    </a>
     <br />
     <br />
-    <Link href="/about">Link without trailing slash</Link>
+    <a href="/about" target="_blank">
+      Link without trailing slash
+    </a>
   </div>
 )
 
